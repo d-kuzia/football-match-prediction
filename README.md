@@ -26,9 +26,32 @@ The workflow includes:
 - Hyperparameter tuning: GridSearchCV for best K in KNN
 - Train-test split: classical evaluation workflow
 
-## Results
+## Data Analysis
 
-soon to be
+### Goals Distribution
+![Goals Distribution](images/histograms.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](images/corr.png)
+
+## 🤖 Unsupervised Learning
+
+### K-Means Elbow Method
+![K-Means Elbow](images/4.4.png)
+
+### Cluster Visualization
+![K-Means Clusters](images/4.4.2.png)
+
+## 🧪 Model Evaluation
+
+### Confusion Matrix (Random Forest)
+![Confusion Matrix RF](images/4.11.png)
+
+### Feature Importance (Random Forest)
+![Feature Importance RF](images/4.13.png)
+
+### Accuracy / F1 Comparison
+![Model Comparison](images/4.14.png)
 
 ## Technologies Used
 
