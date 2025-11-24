@@ -28,19 +28,17 @@ The workflow includes:
 
 ## Results
 
-таблиця Accuracy, F1-score
-
-графік Confusion Matrix
-
-графік K-Means clusters
-
-heatmap кореляцій
-
-розподіли голів
+soon to be
 
 ## Technologies Used
 
-soon to be
+- Python
+- pandas, numpy
+- seaborn, matplotlib
+- scikit-learn (DecisionTree, KNN, RandomForest, KMeans)
+- SQLAlchemy
+- PostgreSQL
+- statsmodels (SARIMAX)
 
 ## Installation
 
