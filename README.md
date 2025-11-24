@@ -26,6 +26,24 @@ The workflow includes:
 - Hyperparameter tuning: GridSearchCV for best K in KNN
 - Train-test split: classical evaluation workflow
 
+## Technologies Used
+
+- Python
+- pandas, numpy
+- seaborn, matplotlib
+- scikit-learn (DecisionTree, KNN, RandomForest, KMeans)
+- SQLAlchemy
+- PostgreSQL
+- statsmodels (SARIMAX)
+
+## Installation
+
+pip install -r requirements.txt
+
+## Data Source
+
+The dataset is based on international football match statistics loaded from a PostgreSQL fact table (fact_matches) and transformed inside the notebook.
+
 ## Data Analysis
 
 ### Goals Distribution
@@ -52,21 +70,3 @@ The workflow includes:
 
 ### Accuracy / F1 Comparison
 ![Model Comparison](images/4.14.png)
-
-## Technologies Used
-
-- Python
-- pandas, numpy
-- seaborn, matplotlib
-- scikit-learn (DecisionTree, KNN, RandomForest, KMeans)
-- SQLAlchemy
-- PostgreSQL
-- statsmodels (SARIMAX)
-
-## Installation
-
-pip install -r requirements.txt
-
-## Data Source
-
-The dataset is based on international football match statistics loaded from a PostgreSQL fact table (fact_matches) and transformed inside the notebook.
