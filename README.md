@@ -52,7 +52,7 @@ The dataset is based on international football match statistics loaded from a Po
 ### Correlation Heatmap
 ![Correlation Heatmap](images/corr.png)
 
-## 🤖 Unsupervised Learning
+## Unsupervised Learning
 
 ### K-Means Elbow Method
 ![K-Means Elbow](images/4.4.png)
@@ -60,7 +60,7 @@ The dataset is based on international football match statistics loaded from a Po
 ### Cluster Visualization
 ![K-Means Clusters](images/4.4.2.png)
 
-## 🧪 Model Evaluation
+## Model Evaluation
 
 ### Confusion Matrix (Random Forest)
 ![Confusion Matrix RF](images/4.11.png)
